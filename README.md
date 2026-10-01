@@ -58,9 +58,9 @@ This repository contains Java programs I have written while learning Java, pract
 - **Editor:** Visual Studio Code
 - **Version Control:** Git & GitHub
 
-##  Progress
 
-This repository documents my learning journey in Java. I will continue adding programs and improving my coding skills as I learn new concepts.
+
+## This repository documents my learning journey in Java. I will continue adding programs and improving my coding skills as I learn new concepts.
 
 ---
 
